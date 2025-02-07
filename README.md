@@ -1,6 +1,8 @@
 🌟 About Me 🌟
 👋 Hey there! I'm Bala Manish Reddy Thumma – your friendly neighborhood data enthusiast! 📊
 
+😄 Pronouns: He/Him
+
 👀 What keeps me curious:
 I'm fascinated by how data and analytics can drive business decisions, uncover insights, and spark innovation. You’ll often find me exploring projects related to data science and business strategy.
 
@@ -13,8 +15,8 @@ I'm eager to work with fellow techies and analysts on data visualization, logist
 📫 Reach me here:
 
 Email: manishthumma@gmail.com
+
 LinkedIn: www.linkedin.com/in/balamanishreddythumma
-😄 Pronouns: He/Him
 
 ⚡ Fun fact:
 I'm a cricket fanatic who can whip up some spicy Indian cuisine! Let's chat data over a game of cricket or a bowl of fiery curry! 🏏🔥
