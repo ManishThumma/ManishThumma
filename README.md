@@ -10,7 +10,7 @@ I'm fascinated by how data and analytics can drive business decisions, uncover i
 I'm pursuing a Master's in Business Analytics at University of Cincinnati and continuously leveling up my expertise in statistical modeling, time series forecasting, and data-driven strategies. 🎓
 
 💞️ Looking to collaborate:
-I'm eager to work with fellow techies and analysts on data visualization, logistic regression models, and machine learning projects! Let's build something awesome together! 🚀
+I'm eager to work with fellow techies and analysts on data visualization, forecasting, logistic regression models, and machine learning projects! Let's build something awesome together! 🚀
 
 📫 Reach me here:
 
