@@ -17,8 +17,7 @@ I'm eager to work with fellow techies and analysts on data visualization, foreca
 
 Email: 
 manishthumma@gmail.com
-balamanishreddyt@gmail.com
-thummaby@mail.uc.edu
+
 
 LinkedIn: www.linkedin.com/in/balamanishreddythumma
 
